@@ -1,5 +1,3 @@
-local discordia = require('discordia')
-
 local module = {
     {
         title = 'Introduction to the rules';
@@ -58,9 +56,5 @@ If you wish to review Discord\'s Community Guidelines, you can do so [here](http
 If you need to contact Discord\'s Trust and Safety team, you can do so [here](https://support.discord.com/hc/en-us/categories/115000168351-Trust-Safety).'
     }
 }
-
-for idx, rule in ipairs(module) do
-    rule.color = discordia.Color.fromHSV((idx - 1) / #module * 360, .5, 1).value
-end
 
 return module
