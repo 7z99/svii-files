@@ -1,5 +1,3 @@
-local discordia = require('discordia')
-
 local module = {
     {
         title = 'Please link your Roblox account.';
