@@ -1,3 +1,5 @@
+print('ok')
+
 local module = {
     {
         title = 'Please link your Roblox account.';
