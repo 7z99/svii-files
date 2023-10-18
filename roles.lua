@@ -11,10 +11,6 @@ local module = {
 <:white:1164012150268899369> - White\
 <:default:1164012143465734154> - Default (auto role colour)';
     };
-    {
-        title = 'test';
-        description = '2'
-    };
 }
 
 return module
