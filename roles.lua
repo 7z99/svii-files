@@ -9,7 +9,7 @@ local module = {
 <:blue:1164012141691535420> - Blue\
 <:purple:1164012146099761234> - Purple\
 <:white:1164012150268899369> - White\
-<:default:1164012143465734154>\ - Default (auto role colour)';
+<:default:1164012143465734154> - Default (auto role colour)';
     };
 }
 
