@@ -12,7 +12,7 @@ This channel will give you a brief overview of our server and how it works.';
 <#1161872087900749965> - The rules channel.\
 <#1162172174493286470> - Where you can receive pings for general server announcements.\
 <#1161919924697047101> - Where you can assign yourself some roles, such as name colours and pings.\
-
+\
 #### DevForum Updates\
 <#1170630771170615376> - Where new posts from the Developer Forum\'s [announcements channel](https://devforum.roblox.com/c/updates/announcements/36) will be posted.\
 <#1170630842675122187> - Where new posts from the Developer Forum\'s [news and alerts channel](https://devforum.roblox.com/c/updates/news-alerts/193) will be posted.\
