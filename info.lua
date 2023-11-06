@@ -48,3 +48,5 @@ This channel will give you a brief overview of our server and how it works.';
 <@&1162179131967021226> - This role is automatically given when you join the server and haven\'t linked your Roblox account.'
   }
 }
+
+return module
