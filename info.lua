@@ -47,5 +47,9 @@ This channel will give you a brief overview of our server and how it works.';
 <@&1170563694581796915> - This role is given to members of the UGC program.\
 <@&1162178409410084965> - This role is automatically given after verifying your Roblox account.\
 <@&1162179131967021226> - This role is automatically given when you join the server and haven\'t linked your Roblox account.'
-  }
+  };
+  {
+        title = 'Invite link';
+        description = 'For convenience, here is a permanent invite link: https://discord.gg/xThT6gUyJU'
+    };
 }
