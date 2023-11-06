@@ -23,6 +23,10 @@ This channel will give you a brief overview of our server and how it works.';
 <#1162174674243964979> - Where information relating to verifying your Roblox account is posted.\
 <#1163361728269127790> - Where you can verify your Roblox account. Note that verifying your Roblox account through Bloxlink is required in order to access the rest of the server.\
 \
+**UGC**\
+<#1164005952719175730> - Where new UGC releases will be released.\
+<#1164005903947804692> - Where you can send me suggestions for items to create.\
+\
 **General**\
 <#1170201489201954837> - Where general discourse happens.\
 <#1162188859593994382> - Where you can share and receive music recommendations.\
