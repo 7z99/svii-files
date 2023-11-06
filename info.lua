@@ -1,4 +1,4 @@
-local module = {
+return {
     {
         title = 'Introduction to the server';
         description = 'Welcome to our server! We\'re glad to have you here. This server is a general development server for general game development and UGC items.\
@@ -48,5 +48,3 @@ This channel will give you a brief overview of our server and how it works.';
 <@&1162179131967021226> - This role is automatically given when you join the server and haven\'t linked your Roblox account.'
   }
 }
-
-return module
